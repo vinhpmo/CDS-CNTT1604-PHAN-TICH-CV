@@ -10,9 +10,9 @@
 
 <div align="center">
     <p align="center">
-        <img src="docs/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
-        <img src="docs/fitdnu_logo.png" alt="FIT Logo" width="180"/>
-        <img src="docs/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
+        <img src="dosc/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
+        <img src="dosc/fitdnu_logo.png" alt="FIT Logo" width="180"/>
+        <img src="dosc/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
     </p>
 
 [![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
@@ -52,22 +52,22 @@
 
 ## 🚀 3. Một số hình ảnh
 
-### Giao diện chính của Client
-![Client Interface](docs/chuatimkiem.png)
+### Giao diện chính 
+![Client Interface](dosc/ui_home.png)
 
-### Kết quả tra cứu thời tiết
+### Kết quả tra của phân tích
 
-** Tra cứu thành công
+** Thông tin phân tích
 
-![Weather Result](docs/tracuthanhcong.png)
+![Weather Result](dosc/charts.png)
 
-** Lỗi không tra cứu được
+** Biểu đồ phân tích
 
-![Weather Result](docs/loiiiiii.png)
+![Weather Result](dosc/chart_skills.png)
 
-**Lịch sử
+**Sơ đồ luồng
 
-![Weather Result](docs/lichsu.png)
+![Weather Result](dosc/architecture.png)
 
 ** Yêu thích
 
@@ -110,6 +110,7 @@ Nếu có thắc mắc hoặc cần hỗ trợ, vui lòng liên hệ:
 
 © 2025 - Khoa Công nghệ thông tin - Trường Đại học Đại Nam
  ```
+
 
 
 
