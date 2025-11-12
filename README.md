@@ -35,14 +35,6 @@
 - Dễ cài đặt, dễ mở rộng.
 - 
 ## 🔧 2. Công nghệ & Ngôn ngữ sử dụng
-
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![Swing GUI](https://img.shields.io/badge/Swing_GUI-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/tutorial/uiswing/)
-[![WeatherAPI](https://img.shields.io/badge/WeatherAPI-00A1F1?style=for-the-badge&logo=cloud&logoColor=white)](https://www.weatherapi.com/)
-[![Socket Programming](https://img.shields.io/badge/Socket_Programming-FF6B35?style=for-the-badge&logo=network&logoColor=white)]()
-
-**Chi tiết công nghệ:**
-
 - Python 3.9+
 - Streamlit
 - pdfminer.six / python-docx / textract
@@ -110,6 +102,7 @@ Nếu có thắc mắc hoặc cần hỗ trợ, vui lòng liên hệ:
 
 © 2025 - Khoa Công nghệ thông tin - Trường Đại học Đại Nam
  ```
+
 
 
 
